@@ -14,9 +14,9 @@ This project enhances web security against bots while keeping the user experienc
 This project demonstrates how front-end technologies can be used to build effective security features that protect against automated bots while maintaining usability.
 
 ## Demo
-![Screenshot 1]("C:\Users\mayur\Pictures\Screenshots\Screenshot 2025-08-28 224407.png")  
-![Screenshot 2]("C:\Users\mayur\Pictures\Screenshots\Screenshot 2025-08-28 224350.png")  
-![Screenshot 3]("C:\Users\mayur\Pictures\Screenshots\Screenshot 2025-08-28 223504.png")  
+![Screenshot 1]("https://github.com/mayurgaikwad18/Slider-CAPTCHA-Verification-System/blob/main/screenshot1.png")  
+![Screenshot 2]("https://github.com/mayurgaikwad18/Slider-CAPTCHA-Verification-System/blob/main/Screenshot2.png")  
+![Screenshot 3]("https://github.com/mayurgaikwad18/Slider-CAPTCHA-Verification-System/blob/main/Screenshot3.png")  
 
 ## How to Use
 1. Clone the repository  
